@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/tranvanloi/Desktop/Exercise4/Exer4StudentClient"/>
+			<item value="/Users/tranvanloi/Desktop/Exercise4/Exer4Student"/>
+			<item value="/Users/tranvanloi/Desktop/ktra/ckTH"/>
+			<item value="/Users/tranvanloi/Desktop/ktra/TRanVanLoi_21030831_25"/>
+			<item value="/Users/tranvanloi/Desktop/BaoCao"/>
+			<item value="/Users/tranvanloi/Desktop/JPA_Doctor"/>
+			<item value="/Users/tranvanloi/Documents/Project/Quản lý karaoke/SourceCode/N15_QuanLyKaraoke"/>
+			<item value="/Users/tranvanloi/Documents/N3.Học Kì 2/Lập trình phân tán với công nghệ Java/Thực hành final/TranVanLoi_21030831_Final"/>
+			<item value="/Users/tranvanloi/Documents/N3.Học Kì 2/Lập trình phân tán với công nghệ Java/Bài tập nhóm /N15_QuanLyKaraoke"/>
+			<item value="/Users/tranvanloi/Documents/Project/Quản lý khách sạn/SourceCode/DeTai"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>
